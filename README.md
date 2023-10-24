@@ -15,3 +15,4 @@ Zastanów się, dlaczego zdecydował_ś się na udział w projekcie? Co Tobą ki
 Hej, Nazywam się Justyna. Jestem tutaj by podjąć nowe wyzwanie 💪. Mam dużą chęć zmiany i nauki czegoś nowego stąd pomysł na przebranżowienie. Myśl o wejściu w świat IT jest ze mną od dłuższej chwili, ale w tym roku postanowiłam się sprawdzić czy dam radę :) .Czas na nową ścieżkę zawodową 💻.. Moje oczekiwania to super portfolio z Waszą pomocą oczywiście bo teorii troszkę było a praktyka to podstawa i trzeba ją podreperować. I z tym wszystkim idę dalej. Będzie ciężko wiem, ale trzeba próbować i walczyć.
 
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7fa3b7fb-cda8-4f79-b7ec-01dac154653f)
+
