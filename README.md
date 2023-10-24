@@ -64,7 +64,8 @@ Moim skromnym zdaniem z tymi zakładkami też można byłoby coś więcej zrobi�
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/4589d4e4-dd10-42e3-ae47-71e476f361a7)
 
 
-
+Subtask 5 Tworzenie konta JIRA
+https://justynam.atlassian.net/jira/projects?selectedProjectType=business
 
 
 
