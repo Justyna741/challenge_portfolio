@@ -75,12 +75,11 @@ Subtask 5 Tworzenie konta JIRA
 https://justynam.atlassian.net/jira/projects?selectedProjectType=business
 
 
-💻 **TASK 1** 💻Test cases
+💻 **TASK 2** 💻Test cases
 ===
 
 Subtask 1
 -
-
 Pisanie przypadków testowych na podstawie User Story.
 User Story dotyczą strony: https://scouts-test.futbolkolektyw.pl/pl
 
