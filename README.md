@@ -137,4 +137,6 @@ Aplikacja natywna działa bez dostępu do sieci, natomiast aplikacja internetowa
 
 
 
+
+
 ===
