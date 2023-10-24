@@ -262,9 +262,14 @@ m.title FROM sale AS s INNER JOIN customers AS c ON s.customer_id = c.customer_i
 
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
 
-ALTER TABLE customers ADD pseudonym VARCHAR (200)
-![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7a26adac-05f5-4ae7-bf9c-b9d22b458778)  
-![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/d72191c1-1134-4cc3-a234-084f9f4e1d88)  
+ALTER TABLE customers
+ADD pseudonym VARCHAR (200)
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/9c216478-5e7c-4f8b-b977-19695d6ac808)
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/24675674-1632-4f2e-a2c2-5182f3abc76c)
+
+
 
 
 
