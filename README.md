@@ -54,16 +54,16 @@ Aplikacja jest w jakimś stopniu intuicyjna ale za mało. Troszkę trzeba poklik
 
 **5**. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
 
-1.Przy pomocy DEVTOOLSÓW doszłam w zakładce console do takiego ostrzeżenia
+ 1.Przy pomocy DEVTOOLSÓW doszłam w zakładce console do takiego ostrzeżenia
 
   ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/093fdaef-565d-4611-83c3-52e6d75e2de8)  
 
-2. brak przycisku "usuń"
-3. Przycisk "clear" nie działa
-4. aplikacja akceptuje cyfry i znaki specjalne w polu imię,nazwisko
-5. pole telefon - aplikacja akceptuje ciąg liter; sugerowane ograniczenie akceptowanych wartości pola
-6. aplikacja akceptuje przyszłą datę,
-7. pole wzrost - aplikacja akceptuje wzrost ujemny
+ 2. brak przycisku "usuń"
+ 3. Przycisk "clear" nie działa
+ 4. aplikacja akceptuje cyfry i znaki specjalne w polu imię,nazwisko
+ 5. pole telefon - aplikacja akceptuje ciąg liter; sugerowane ograniczenie akceptowanych wartości pola
+ 6. aplikacja akceptuje przyszłą datę,
+ 7. pole wzrost - aplikacja akceptuje wzrost ujemny
 
 Moim skromnym zdaniem z tymi zakładkami też można byłoby coś więcej zrobić bo dają jakieś informacje, ale zbyt ogólne, mogłby byc rozwujalne 😎
 
