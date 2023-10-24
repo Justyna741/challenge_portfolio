@@ -75,6 +75,22 @@ Subtask 5 Tworzenie konta JIRA
 https://justynam.atlassian.net/jira/projects?selectedProjectType=business
 
 
+💻 **TASK 1** 💻 Test cases
 
+Subtask 1
+-
 
+Pisanie przypadków testowych na podstawie User Story.
+User Story dotyczą strony: https://scouts-test.futbolkolektyw.pl/pl
 
+https://docs.google.com/document/d/1D6XVCUTafTHhkIdYPJFL-IDpUzSebsiPLtEs8mX0xWg/edit
+
+Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń“
+-
+Test casy'y do strony https://scouts-test.futbolkolektyw.pl/
+
+https://docs.google.com/spreadsheets/d/1cDTs16zm-lB25KGQgauGQKRLpMO-0yyxCecL834Zn08/edit#gid=0
+
+Subtask 3 Po co piszemy test case’y?
+-
+Test case"y jak sama nazwa mówi to testowanie czyli podstawowy i najważniejszy obowiązek zawodu testera. To najważniejszy oręż testera w walce z bugami. Lepiej możemy sprawdzić daną aplikacje czy oprogramowanie. Po to ten zawód jest i do tego ma służyć, żebyśmy mieli lepiej, łatwiej w swoich wykonywanych zawodach jak i w codziennym życiu😎.
