@@ -10,7 +10,7 @@ Link do egzaminu znajdziecie tutaj 👉 https://docs.google.com/forms/d/15-pQoZ1
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/96edf9e3-6532-4649-b84b-3bf3eb8af81f)
 
 Subtask 3
---
+-
 
 "Dlaczego zdecydował_ś się na udział w challenge portfolio”?
 Zastanów się, dlaczego zdecydował_ś się na udział w projekcie? Co Tobą kierowało? Jaki jest Twój cel? Jakie są Twoje oczekiwania wobec projektu?
@@ -20,6 +20,7 @@ Hej, Nazywam się Justyna. Jestem tutaj by podjąć nowe wyzwanie 💪. Mam duż
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7fa3b7fb-cda8-4f79-b7ec-01dac154653f)
 
 Subtask 4
+-
 
 1. Na czym polega ta aplikacja? Do czego służy?
 
@@ -68,6 +69,7 @@ Moim skromnym zdaniem z tymi zakładkami też można byłoby coś więcej zrobi�
 
 
 Subtask 5 Tworzenie konta JIRA
+-
 https://justynam.atlassian.net/jira/projects?selectedProjectType=business
 
 
