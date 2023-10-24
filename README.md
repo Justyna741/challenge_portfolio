@@ -75,7 +75,8 @@ Subtask 5 Tworzenie konta JIRA
 https://justynam.atlassian.net/jira/projects?selectedProjectType=business
 
 
-💻 **TASK 1** 💻 Test cases
+💻 **TASK 1** 💻Test cases
+===
 
 Subtask 1
 -
