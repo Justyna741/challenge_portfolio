@@ -140,37 +140,38 @@ Subtask 3 Do czego służy ta aplikacja?
 Aplikacja natywna działa bez dostępu do sieci, natomiast aplikacja internetowa jest uzależniona od dostępu do sieci.
 
 
-💻 TASK 4 💻 SQL part 1
+💻 TASK 5 💻 SQL part 1
 ===
 
 Subtask 1 Krótki kurs podstaw SQL
 Podstawowe zapytania SQL których nauczyłam się to:
 
-👉SELECT * FROM
-👉SELECT * FROM * WHERE
-👉SELECT * FROM * WHERE
-👉SELECT * FROM * WHERE * AND
-👉SELECT * FROM * WHERE * AND LIKE
-👉SELECT * FROM * ORDER BY * DESC
-👉SELECT * FROM * ORDER BY * ASC
-👉SELECT * AS FROM
-👉INSERT INTO
-👉INSERT INTO * VALUES
-👉UPDATE
-👉UPDATE * SET
-👉UPDATE * SET * WHERE
-👉DELETE
-👉DELETE * FROM
-👉DELETE * FROM *WHERE
-👉SELECT * FROM *JOIN
-👉SELECT * FROM *JOIN * ON
-👉SELECT * FROM * LEFT JOIN * ON
-👉SELECT * FROM * RIGHT JOIN * ON
+👉SELECT * FROM  
+👉SELECT * FROM * WHERE  
+👉SELECT * FROM * WHERE  
+👉SELECT * FROM * WHERE * AND  
+👉SELECT * FROM * WHERE * AND LIKE  
+👉SELECT * FROM * ORDER BY * DESC  
+👉SELECT * FROM * ORDER BY * ASC  
+👉SELECT * AS FROM  
+👉INSERT INTO  
+👉INSERT INTO * VALUES  
+👉UPDATE  
+👉UPDATE * SET  
+👉UPDATE * SET * WHERE  
+👉DELETE   
+👉DELETE * FROM  
+👉DELETE * FROM *WHERE  
+👉SELECT * FROM *JOIN  
+👉SELECT * FROM *JOIN * ON  
+👉SELECT * FROM * LEFT JOIN * ON  
+👉SELECT * FROM * RIGHT JOIN * ON  
 
 👍💪
 
 
 Subtask 3 Kilka zadań na rozgrzewkę
+-
 1. _Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/0a421ce7-1ad6-47c3-ab3e-2f5384632146)
