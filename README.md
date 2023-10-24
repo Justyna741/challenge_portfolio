@@ -23,11 +23,11 @@ Subtask 4
 -
 
 **1**. Na czym polega ta aplikacja? Do czego służy?
--
+
 Jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników< Aplikacja służy skautom piłki nożnej aby mieli wgląd do danych piłkarzy. Danych podstawowych (imię, nazwisko, wiek, nr telefonu, ,email, konta na portalach społecznościowych ) jak i bardziej szczegółowych (waga,wzrost ) jak i tych typowo sportowych najbardziej potrzebnych skautom (pozycja główna, alternatywna,klub, dominująca noga , osiągnięcia ).
 
 **2**. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?
--
+
 Aplikacja posiada wiele funkcjonalności typu logowanie, wylogowywanie,zmiana języka, wyświetlanie listy graczy, dodanie nowego gracza, wyświetlanie raportów, wyświetlanie danych o poszczególnym graczu, filtr ( filtr gracza, filtrowanie po np nazwisku, imieniu, klubie itd. )
 
 Niektóre funkcjonalności są jasne jak słońce ☀️, a niektóre są mega chaotyczne i niejasne.  
@@ -41,7 +41,7 @@ Niektóre funkcjonalności są jasne jak słońce ☀️, a niektóre są mega c
   ▶️r filtr ogólny jest ok i w dobrym miejscu, ale filtruje w sumie tylko graczy ale może to wystarczy 😊  
 
 **3**. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
--
+
 Interfejs jest ok . Czy mi sie podoba ? I tak i nie ale to tez pewnie kwestia gustu😇
 
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/09a00ff8-4397-49b9-a647-349ad9451a53)
@@ -49,11 +49,11 @@ Interfejs jest ok . Czy mi sie podoba ? I tak i nie ale to tez pewnie kwestia gu
 To główne logo powinno być na samej górze i bardziej powinno się rzucać w 👀
 
 **4**. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
--
+
 Aplikacja jest w jakimś stopniu intuicyjna ale za mało. Troszkę trzeba poklikać żeby dojść do niektórych rzeczy jak działają.
 
 **5**. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
--
+
 1.Przy pomocy DEVTOOLSÓW doszłam w zakładce console do takiego ostrzeżenia
 
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/093fdaef-565d-4611-83c3-52e6d75e2de8)  
