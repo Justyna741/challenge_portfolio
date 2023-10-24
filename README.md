@@ -299,11 +299,9 @@ INSERT INTO customers(customer_id, name, surname, email, pseudonym) VALUES ('7',
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/b5b7248a-7b67-483c-8118-5fe351a78cc0)
 
 
-@Justyna741
-Owner
-Author
-Justyna741 commented on adb2b60 last week • 
+
 Subtask 2 - Test
+-
 http://getistqb.com/
 zestaw pytań ECRU
 Ilość zdobytych punktów 11 na 15
