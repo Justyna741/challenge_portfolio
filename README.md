@@ -37,3 +37,5 @@ Niektóre funkcjonalności są jasne jak słońce ☀️, a niektóre są mega c
 3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 
 Interfejs jest ok . Czy mi sie podoba ? I tak i nie ale to tez pewnie kwestia gustu😇
+
+
