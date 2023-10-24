@@ -22,7 +22,7 @@ Hej, Nazywam się Justyna. Jestem tutaj by podjąć nowe wyzwanie 💪. Mam duż
 Subtask 4
 -
 
-1. Na czym polega ta aplikacja? Do czego służy?
+**1**.Na czym polega ta aplikacja? Do czego służy?
 
 Jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników< Aplikacja służy skautom piłki nożnej aby mieli wgląd do danych piłkarzy. Danych podstawowych (imię, nazwisko, wiek, nr telefonu, ,email, konta na portalach społecznościowych ) jak i bardziej szczegółowych (waga,wzrost ) jak i tych typowo sportowych najbardziej potrzebnych skautom (pozycja główna, alternatywna,klub, dominująca noga , osiągnięcia ).
 
@@ -34,7 +34,9 @@ Niektóre funkcjonalności są jasne jak słońce ☀️, a niektóre są mega c
   ▶️ funkcjonalność z logowaniem jest ok, ale tak jak koleżanka zauważyła jest spacja po com i już nie możemy się zalogować  
   ▶️ funkcjonalność z wylogowaniem działa ok i jest jasna i widoczna  
   ▶️funkcjonalność ze zmianą języka też wygląda na poprawną i bardzo przydatną w tej dziedzinie ponieważ trener może być obcokrajowcem. Fajną sprawą jest, że już na etapie logowania można zmienić język  👍  
-  ▶️ link z dodaniem nowego gracza wg mnie powinien być w innym miejscu a mianowicie w zakładce z graczami lub pod ikonką gracze. Ikonka GRACZE powinna być listą rozwijalną i powinna mieć tam możliwości np dodania nowego gracza, raport o danym graczu czy zagrane mecze i filtrowanie danego gracza+ filtr po nazwisku czy klubie w którym grał, gra. Ta opcja, która jest czyli po wejściu w Gracze otwiera się tabela z graczami i klikając na danego gracza wyświetla nam się raport i mecze w których grał jest dla mniej intuicyjna.  
+  ▶️ link z dodaniem nowego gracza wg mnie powinien być w innym miejscu a mianowicie w zakładce z graczami lub pod ikonką gracze. Ikonka GRACZE powinna być listą rozwijalną i powinna mieć tam możliwości np       
+    dodania nowego gracza, raport o danym graczu czy zagrane mecze i filtrowanie danego gracza+ filtr po nazwisku czy klubie w którym grał, gra. Ta opcja, która jest czyli po wejściu w Gracze otwiera się tabela 
+    z graczami i klikając na danego gracza wyświetla nam się raport i mecze w których grał jest dla mniej intuicyjna.  
   ▶️raport o graczach tez powinien być osobną ikoną w głównym panelu po lewej stronie. Teraz pojawia się dopiero po wejściu w danego gracza.  
   ▶️r filtr ogólny jest ok i w dobrym miejscu, ale filtruje w sumie tylko graczy ale może to wystarczy 😊  
 
@@ -52,7 +54,7 @@ Aplikacja jest w jakimś stopniu intuicyjna ale za mało. Troszkę trzeba poklik
 
 5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
 
-1.🔹Przy pomocy DEVTOOLSÓW doszłam w zakładce console do takiego ostrzeżenia
+1.Przy pomocy DEVTOOLSÓW doszłam w zakładce console do takiego ostrzeżenia
 
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/093fdaef-565d-4611-83c3-52e6d75e2de8)  
 
@@ -63,7 +65,7 @@ Aplikacja jest w jakimś stopniu intuicyjna ale za mało. Troszkę trzeba poklik
 6. aplikacja akceptuje przyszłą datę,
 7. pole wzrost - aplikacja akceptuje wzrost ujemny
 
-Moim skromnym zdaniem z tymi zakładkami też można byłoby coś więcej zrobić bo dają jakieś informacje, ale zbyt ogólne 😎
+Moim skromnym zdaniem z tymi zakładkami też można byłoby coś więcej zrobić bo dają jakieś informacje, ale zbyt ogólne, mogłby byc rozwujalne 😎
 
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/4589d4e4-dd10-42e3-ae47-71e476f361a7)
 
