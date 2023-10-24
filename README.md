@@ -223,6 +223,100 @@ Subtask 3 Kilka zadań na rozgrzewkę
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7670c539-20a5-4afa-a9b2-6e65ff8ff552)
 
 
+💻 TASK 6 💻  SQL part 2
+===
+
+Subtask 1 Krótki kurs podstaw SQL
+-
+
+11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+
+UPDATE customers SET surname='Miler'WHERE surname = 'Muler' ;
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/debda06b-8f72-4612-a1cd-6253316b2d33)
+
+
+12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+
+https://user-images.githubusercontent.com/143549502/275618529-f3d6e70d-c594-4385-80ec-03ff5eea6042.png
+
+13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+
+UPDATE customers SET email='pati@mail.com' WHERE customer_id = 4;
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/8a8b3ab6-e897-45ea-bee8-08c724b58db2)
+
+
+14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+
+SELECT
+s.customer_id,
+s.movie_id,
+s.sale_date,
+c.name,
+c.surname,
+m.title FROM sale AS s INNER JOIN customers AS c ON s.customer_id = c.customer_id INNER JOIN movies AS m ON s.movie_id = m.movie_id
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/2f173137-1055-4b37-a7d3-0f2d0aafd4ab)
+
+
+15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+ALTER TABLE customers
+ADD pseudonym VARCHAR (200)
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7a26adac-05f5-4ae7-bf9c-b9d22b458778)
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/d72191c1-1134-4cc3-a234-084f9f4e1d88)
+
+
+
+16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/c6ffe6b3-e51b-4945-b0f5-a2abd1921aa3)
+
+
+17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
+SELECT name FROM actors UNION SELECT name FROM customers ORDER BY name ASC
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/02e35d51-59cf-4caf-a004-f4b0448cead2)
+
+
+18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+SELECT *, CASE when year_of_production >2000 THEN price + 2.5 ELSE price END AS price_fixed FROM movies;
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/df130f14-d62d-46a4-9e0c-872f743396f3)
+
+
+19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
+SELECT name, surname,title FROM actors JOIN cast ON actors.actor_id=cast.actor_id JOIN movies ON cast.movie_id=movies.movie_id WHERE actors.actor_id=4;
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/fe7dac5d-501e-4d9c-8f18-fca4bdd77e3f)
+
+
+20.A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+
+INSERT INTO customers(customer_id, name, surname, email, pseudonym) VALUES ('7','Honia','Stuczka-Kucharska',' honia@mail.com','Hoa')
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/b5b7248a-7b67-483c-8118-5fe351a78cc0)
+
+
+@Justyna741
+Owner
+Author
+Justyna741 commented on adb2b60 last week • 
+Subtask 2 - Test
+http://getistqb.com/
+zestaw pytań ECRU
+Ilość zdobytych punktów 11 na 15
+
+@Justyna741
+Owner
+Author
+Justyna741 commented on adb2b60 last week • 
+
+Subtask 3 Tworzymy portfolio
+-
+
+https://github.com/Justyna741/PORTFOLIO/blob/main/README.md
 
 
 ===
