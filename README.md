@@ -113,4 +113,28 @@ Subtask 3 Raport z wykonanych testów
 👉https://docs.google.com/document/d/1WDxST3uDmWkObTEa-RzcJ7Zy2GzlRf6GypH7K3yRqkQ/edit
 
 
+💻 TASK 4 💻 Testowanie aplikacji mobilnych
 
+Subtask 2 Testowanie eksploracyjne i raportowanie błędów aplikacji mobilnej OLX - OLX google play
+-
+
+▶️https://docs.google.com/spreadsheets/d/1k_fdO4aF-ymGRydi8MQjYs4pIYCnUu9KnxQ2lDbR3es/edit#gid=0
+
+
+Subtask 3 Do czego służy ta aplikacja?
+-
+1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+▶️Aplikacja służy naprawdę prawie do wszystkiego:)Jest to internetowa platforma handlowa do sprzedawania,kupowania usług i towarów. Możemy kupować, sprzedawać a nawet oddać za darmo naprawdę dowolną rzecz. Począwszy od odzieży, samochodów czy elektroniki.Możemy również znaleźć pracę czy dać ogłoszenie o szukaniu pracownika.
+2. Kto ma być użytkownikiem końcowym aplikacji?
+▶️Użytkownikiem końcowym może być każdy człowiek na świecie, który posiada telefon, tablet bądż inne urządzenie na którym zainstaluje aplikacje.
+3 .Czy według Ciebie aplikacja jest user friendly?
+▶️ Moim skromnym zdaniem to zależy od wymagań i gustu danego uzytkownika. Co dana osoba oczekuje od aplikacji i w jakim celu ma jej służyć.
+4.Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+▶️ Dla mnie ta platforma ma aż za dużo rzeczy i możliwości i przez to zrobiła się mało bezpieczna bo bardzo dużo opinii słyszałam o oszustwach. Dużo osób zaczęło narzekać na tą aplikację ponieważ zostali oszukani. Co bym poprawiła, zdecydowanie bezpieczeńswo aplikacji. Po drugie za dużo reklam, które rozpraszają użytkownika. Jest za dużo promowanych ogłoszeń, które nie są dla mnie istotne. Wyniki powinny być lepiej dopasowane do lokalizacji w której szukam, Chciałabym np zawęzić wyszukiwanie za pomocą większej liczby opcji filtrowania/sortowania.
+5.Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+▶️ Jeżeli chodzi o różnicę to chyba nie zauwazyłam aż tak znacznej różnicy. To raczej kwestia urządzenia mobilnego na jakim testujemy daną aplikację. I czy aplikacja do przetestowania jest user firendly.
+Aplikacja natywna działa bez dostępu do sieci, natomiast aplikacja internetowa jest uzależniona od dostępu do sieci.
+
+
+
+===
