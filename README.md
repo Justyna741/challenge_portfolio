@@ -126,7 +126,7 @@ Subtask 3 Do czego służy ta aplikacja?
 -
 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?  
 ▶️Aplikacja służy naprawdę prawie do wszystkiego:)Jest to internetowa platforma handlowa do sprzedawania,kupowania usług i towarów. Możemy kupować, sprzedawać a nawet oddać za darmo naprawdę dowolną rzecz. Począwszy od odzieży, samochodów czy elektroniki.Możemy również znaleźć pracę czy dać ogłoszenie o szukaniu pracownika.  
-2. Kto ma być użytkownikiem końcowym aplikacji?
+2. Kto ma być użytkownikiem końcowym aplikacji?  
 ▶️Użytkownikiem końcowym może być każdy człowiek na świecie, który posiada telefon, tablet bądż inne urządzenie na którym zainstaluje aplikacje.  
 3 .Czy według Ciebie aplikacja jest user friendly?  
 ▶️ Moim skromnym zdaniem to zależy od wymagań i gustu danego uzytkownika. Co dana osoba oczekuje od aplikacji i w jakim celu ma jej służyć.  
