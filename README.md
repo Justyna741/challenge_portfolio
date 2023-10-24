@@ -238,7 +238,8 @@ UPDATE customers SET surname='Miler'WHERE surname = 'Muler' ;
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
-![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/f7a93e4e-0ea0-479b-b6ae-92ebb6ae6469)
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/aac5de57-96e6-4435-a541-7494fb403893)
+
 
 
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
