@@ -264,8 +264,8 @@ m.title FROM sale AS s INNER JOIN customers AS c ON s.customer_id = c.customer_i
 
 ALTER TABLE customers
 ADD pseudonym VARCHAR (200)
-![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7a26adac-05f5-4ae7-bf9c-b9d22b458778)
-![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/d72191c1-1134-4cc3-a234-084f9f4e1d88)
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7a26adac-05f5-4ae7-bf9c-b9d22b458778)  
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/d72191c1-1134-4cc3-a234-084f9f4e1d88)  
 
 
 
