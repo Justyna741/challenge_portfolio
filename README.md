@@ -1,4 +1,4 @@
-💻 **TASK 1** 💻
+💻 **TASK 1** 💻 Testy eksploracyjne
 ===
 
 Subtask 1
