@@ -144,6 +144,7 @@ Aplikacja natywna działa bez dostępu do sieci, natomiast aplikacja internetowa
 ===
 
 Subtask 1 Krótki kurs podstaw SQL
+-
 Podstawowe zapytania SQL których nauczyłam się to:
 
 👉SELECT * FROM  
