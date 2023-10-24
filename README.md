@@ -56,7 +56,7 @@ Aplikacja jest w jakimś stopniu intuicyjna ale za mało. Troszkę trzeba poklik
 
 1.Przy pomocy DEVTOOLSÓW doszłam w zakładce console do takiego ostrzeżenia
 
-![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/093fdaef-565d-4611-83c3-52e6d75e2de8)  
+  ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/093fdaef-565d-4611-83c3-52e6d75e2de8)  
 
 2. brak przycisku "usuń"
 3. Przycisk "clear" nie działa
