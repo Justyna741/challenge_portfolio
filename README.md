@@ -2,7 +2,7 @@
 
   Subtask 1
   
-Link do egzaminu znajdziecie tutaj 👉 https://docs.google.com/forms/d/15-pQoZ1t2wG5sz2KdrX1RlhCrJkGDw-ZF3XSoGhNvcQ
+Link do egzaminu znajdziecie tutaj 👉 https://docs.google.com/forms/d/15-pQoZ1t2wG5sz2KdrX1RlhCrJkGDw-ZF3XSoGhNvcQ  
 8 punktów
 
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/96edf9e3-6532-4649-b84b-3bf3eb8af81f)
@@ -37,5 +37,34 @@ Niektóre funkcjonalności są jasne jak słońce ☀️, a niektóre są mega c
 3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 
 Interfejs jest ok . Czy mi sie podoba ? I tak i nie ale to tez pewnie kwestia gustu😇
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/09a00ff8-4397-49b9-a647-349ad9451a53)
+
+To główne logo powinno być na samej górze i bardziej powinno się rzucać w 👀
+
+4. Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
+
+Aplikacja jest w jakimś stopniu intuicyjna ale za mało. Troszkę trzeba poklikać żeby dojść do niektórych rzeczy jak działają.
+
+5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
+
+1.🔹Przy pomocy DEVTOOLSÓW doszłam w zakładce console do takiego ostrzeżenia
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/093fdaef-565d-4611-83c3-52e6d75e2de8)  
+
+2. brak przycisku "usuń"
+3. Przycisk "clear" nie działa
+4. aplikacja akceptuje cyfry i znaki specjalne w polu imię,nazwisko
+5. pole telefon - aplikacja akceptuje ciąg liter; sugerowane ograniczenie akceptowanych wartości pola
+6. aplikacja akceptuje przyszłą datę,
+7. pole wzrost - aplikacja akceptuje wzrost ujemny
+
+Moim skromnym zdaniem z tymi zakładkami też można byłoby coś więcej zrobić bo dają jakieś informacje, ale zbyt ogólne 😎
+
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/4589d4e4-dd10-42e3-ae47-71e476f361a7)
+
+
+
+
 
 
