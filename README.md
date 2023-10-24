@@ -78,10 +78,9 @@ https://justynam.atlassian.net/jira/projects?selectedProjectType=business
 💻 **TASK 2** 💻Test cases
 ===
 
-Subtask 1
+Subtask 1 Pisanie przypadków testowych na podstawie User Story.
 -
 
-Pisanie przypadków testowych na podstawie User Story.
 User Story dotyczą strony: https://scouts-test.futbolkolektyw.pl/pl
 
 https://docs.google.com/document/d/1D6XVCUTafTHhkIdYPJFL-IDpUzSebsiPLtEs8mX0xWg/edit
