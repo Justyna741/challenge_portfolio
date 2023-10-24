@@ -96,3 +96,19 @@ Subtask 3 Po co piszemy test case’y?
 -
 
 Test case"y jak sama nazwa mówi to testowanie czyli podstawowy i najważniejszy obowiązek zawodu testera. To najważniejszy oręż testera w walce z bugami. Lepiej możemy sprawdzić daną aplikacje czy oprogramowanie. Po to ten zawód jest i do tego ma służyć, żebyśmy mieli lepiej, łatwiej w swoich wykonywanych zawodach jak i w codziennym życiu😎.
+
+
+💻 TASK 3 💻 Raportowanie błędów
+===
+
+Subtask 2Testowanie według planów testów i raportowanie błędów
+-
+Testy będziemy wykonywać na produkcyjnym środowisku https://scouts.futbolkolektyw.pl/
+
+👇https://docs.google.com/spreadsheets/d/1yF3jgqnQAow2JNsqOJOuMI07N_msjwuJylqkCcv_aiA/edit#gid=2060274664
+
+Subtask 3 Raport z wykonanych testów
+-
+
+👉https://docs.google.com/document/d/1WDxST3uDmWkObTEa-RzcJ7Zy2GzlRf6GypH7K3yRqkQ/edit
+
