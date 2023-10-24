@@ -101,7 +101,7 @@ Test case"y jak sama nazwa mówi to testowanie czyli podstawowy i najważniejszy
 💻 TASK 3 💻 Raportowanie błędów
 ===
 
-Subtask 2Testowanie według planów testów i raportowanie błędów
+Subtask 2 Testowanie według planów testów i raportowanie błędów
 -
 Testy będziemy wykonywać na produkcyjnym środowisku https://scouts.futbolkolektyw.pl/
 
