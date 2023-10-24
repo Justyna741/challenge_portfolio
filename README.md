@@ -114,6 +114,7 @@ Subtask 3 Raport z wykonanych testów
 
 
 💻 TASK 4 💻 Testowanie aplikacji mobilnych
+===
 
 Subtask 2 Testowanie eksploracyjne i raportowanie błędów aplikacji mobilnej OLX - OLX google play
 -
