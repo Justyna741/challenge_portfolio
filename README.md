@@ -173,43 +173,53 @@ Podstawowe zapytania SQL których nauczyłam się to:
 Subtask 3 Kilka zadań na rozgrzewkę
 1. _Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
-image
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/0a421ce7-1ad6-47c3-ab3e-2f5384632146)
+
 
 2. Wyświetl film, który powstał w 2019 roku.
 
-image
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/22a3f7c5-81db-4cb7-8037-87316f24aa6b)
+
 
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
-image
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/b4b0e9b1-75d8-4175-9521-6faf925803df)
+
 
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 
-image
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/6b2064d5-ef5b-48f4-bd98-ab1deedd6b59)
+
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
-image
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/3ca1bf5f-d920-4e2e-b773-61d50fe2ec1e)
+
 
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 
-image
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/b47bd2c0-1205-44e8-84a4-86d46c79f3e5)
+
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 
-image
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/a2a60dda-e416-4771-8672-fe51131758d8)
+
 
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
-image
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/e1fabbaa-18a0-4ef1-bb51-c18a9a45a2ef)
+
 
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
-image
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/68b5f3f2-72cd-48fb-9d11-dd2e1ff2a50a)
+
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
-image
+![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7670c539-20a5-4afa-a9b2-6e65ff8ff552)
+
 
 
 
