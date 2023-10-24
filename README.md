@@ -306,10 +306,7 @@ http://getistqb.com/
 zestaw pytań ECRU
 Ilość zdobytych punktów 11 na 15
 
-@Justyna741
-Owner
-Author
-Justyna741 commented on adb2b60 last week • 
+
 
 Subtask 3 Tworzymy portfolio
 -
