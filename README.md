@@ -140,6 +140,76 @@ Subtask 3 Do czego służy ta aplikacja?
 Aplikacja natywna działa bez dostępu do sieci, natomiast aplikacja internetowa jest uzależniona od dostępu do sieci.
 
 
+💻 TASK 4 💻 SQL part 1
+===
+
+Subtask 1 Krótki kurs podstaw SQL
+Podstawowe zapytania SQL których nauczyłam się to:
+
+👉SELECT * FROM
+👉SELECT * FROM * WHERE
+👉SELECT * FROM * WHERE
+👉SELECT * FROM * WHERE * AND
+👉SELECT * FROM * WHERE * AND LIKE
+👉SELECT * FROM * ORDER BY * DESC
+👉SELECT * FROM * ORDER BY * ASC
+👉SELECT * AS FROM
+👉INSERT INTO
+👉INSERT INTO * VALUES
+👉UPDATE
+👉UPDATE * SET
+👉UPDATE * SET * WHERE
+👉DELETE
+👉DELETE * FROM
+👉DELETE * FROM *WHERE
+👉SELECT * FROM *JOIN
+👉SELECT * FROM *JOIN * ON
+👉SELECT * FROM * LEFT JOIN * ON
+👉SELECT * FROM * RIGHT JOIN * ON
+
+👍💪
+
+
+Subtask 3 Kilka zadań na rozgrzewkę
+1. _Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+
+image
+
+2. Wyświetl film, który powstał w 2019 roku.
+
+image
+
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+image
+
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+
+image
+
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+image
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+image
+
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+
+image
+
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+image
+
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+image
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+image
 
 
 
