@@ -294,7 +294,8 @@ SELECT *, CASE when year_of_production >2000 THEN price + 2.5 ELSE price END AS 
 
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 
-SELECT name, surname,title FROM actors JOIN cast ON actors.actor_id=cast.actor_id JOIN movies ON cast.movie_id=movies.movie_id WHERE actors.actor_id=4;
+SELECT name, surname,title FROM actors JOIN cast ON actors.actor_id=cast.actor_id JOIN movies ON cast.movie_id=movies.movie_id WHERE actors.actor_id=4;  
+
 
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/b78d0787-d01b-4469-9c2a-60bc989d6da0)
 
