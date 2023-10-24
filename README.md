@@ -112,3 +112,5 @@ Subtask 3 Raport z wykonanych testów
 
 👉https://docs.google.com/document/d/1WDxST3uDmWkObTEa-RzcJ7Zy2GzlRf6GypH7K3yRqkQ/edit
 
+
+
