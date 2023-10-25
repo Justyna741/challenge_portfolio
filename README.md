@@ -75,8 +75,11 @@ Subtask 5 Tworzenie konta JIRA
 https://justynam.atlassian.net/jira/projects?selectedProjectType=business
 
 
+
+
 💻 **TASK 2** 💻Test cases
 ===
+
 
 Subtask 1 Pisanie przypadków testowych na podstawie User Story.
 -
@@ -98,8 +101,10 @@ Subtask 3 Po co piszemy test case’y?
 Test case"y jak sama nazwa mówi to testowanie czyli podstawowy i najważniejszy obowiązek zawodu testera. To najważniejszy oręż testera w walce z bugami. Lepiej możemy sprawdzić daną aplikacje czy oprogramowanie. Po to ten zawód jest i do tego ma służyć, żebyśmy mieli lepiej, łatwiej w swoich wykonywanych zawodach jak i w codziennym życiu😎.
 
 
+
 💻 TASK 3 💻 Raportowanie błędów
 ===
+
 
 Subtask 2 Testowanie według planów testów i raportowanie błędów
 -
@@ -113,8 +118,10 @@ Subtask 3 Raport z wykonanych testów
 👉https://docs.google.com/document/d/1WDxST3uDmWkObTEa-RzcJ7Zy2GzlRf6GypH7K3yRqkQ/edit
 
 
+
 💻 TASK 4 💻 Testowanie aplikacji mobilnych
 ===
+
 
 Subtask 2 Testowanie eksploracyjne i raportowanie błędów aplikacji mobilnej OLX - OLX google play
 -
@@ -140,8 +147,10 @@ Subtask 3 Do czego służy ta aplikacja?
 Aplikacja natywna działa bez dostępu do sieci, natomiast aplikacja internetowa jest uzależniona od dostępu do sieci.
 
 
+
 💻 TASK 5 💻 SQL part 1
 ===
+
 
 Subtask 1 Krótki kurs podstaw SQL
 -
@@ -223,8 +232,10 @@ Subtask 3 Kilka zadań na rozgrzewkę
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7670c539-20a5-4afa-a9b2-6e65ff8ff552)
 
 
+
 💻 TASK 6 💻  SQL part 2
 ===
+
 
 Subtask 1 Krótki kurs podstaw SQL
 -
