@@ -65,7 +65,7 @@ Aplikacja jest w jakimś stopniu intuicyjna ale za mało. Troszkę trzeba poklik
  5. pole telefon - aplikacja akceptuje ciąg liter; sugerowane ograniczenie akceptowanych wartości pola
  6. aplikacja akceptuje przyszłą datę,
  7. pole wzrost - aplikacja akceptuje wzrost ujemny
- 8. Bład 404
+ 8. Błąd 404
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/6bb66f95-7916-4bc5-847d-c07ac459da52)
 
 
@@ -347,7 +347,7 @@ Subtask 3 Tworzymy portfolio
 
 https://github.com/Justyna741/PORTFOLIO
 
-
+PORTFOLIOP
 
 ===
 
