@@ -71,9 +71,12 @@ Moim skromnym zdaniem z tymi zakładkami też można byłoby coś więcej zrobi�
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/4589d4e4-dd10-42e3-ae47-71e476f361a7)
 
 
+
 Subtask 5 Tworzenie konta JIRA
 -
 https://justynam.atlassian.net/jira/projects?selectedProjectType=business
+
+
 
 
 
@@ -82,19 +85,20 @@ https://justynam.atlassian.net/jira/projects?selectedProjectType=business
 ===
 
 
-Subtask 1 Pisanie przypadków testowych na podstawie User Story.
+Subtask 1 
 -
+Pisanie przypadków  testowych na podstawie User Story
 
 User Story dotyczą strony: https://scouts-test.futbolkolektyw.pl/pl
 
-https://docs.google.com/document/d/1D6XVCUTafTHhkIdYPJFL-IDpUzSebsiPLtEs8mX0xWg/edit
 
-Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń“
+Subtask 2 
 -
 
 Test casy'y do strony https://scouts-test.futbolkolektyw.pl/
 
-https://docs.google.com/spreadsheets/d/1cDTs16zm-lB25KGQgauGQKRLpMO-0yyxCecL834Zn08/edit#gid=0
+Pisanie przypadków testowych na podstawie " własnych doświadczeń "
+
 
 Subtask 3 Po co piszemy test case’y?
 -
