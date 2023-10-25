@@ -339,8 +339,7 @@ Ilość zdobytych punktów 11 na 15
 Subtask 3 Tworzymy portfolio
 -
 
-
-POPRTFOLIO
+PORTFOLIO
 
 
 
