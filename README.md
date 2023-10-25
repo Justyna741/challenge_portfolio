@@ -20,9 +20,9 @@ Hej, Nazywam się Justyna. Jestem tutaj by podjąć nowe wyzwanie 💪. Mam duż
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7fa3b7fb-cda8-4f79-b7ec-01dac154653f)
 
 Subtask 4
--
+SCOUT
 
-**1**. Na czym polega ta aplikacja? Do czego służy?
+**1**. Na czym polega ta aplikacja? Do czego służy? " SCOUT PANEL"
 
 Jest to aplikacja dla skautów piłki nożnej, która umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników< Aplikacja służy skautom piłki nożnej aby mieli wgląd do danych piłkarzy. Danych podstawowych (imię, nazwisko, wiek, nr telefonu, ,email, konta na portalach społecznościowych ) jak i bardziej szczegółowych (waga,wzrost ) jak i tych typowo sportowych najbardziej potrzebnych skautom (pozycja główna, alternatywna,klub, dominująca noga , osiągnięcia ).
 
