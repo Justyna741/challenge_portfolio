@@ -20,7 +20,7 @@ Hej, Nazywam się Justyna. Jestem tutaj by podjąć nowe wyzwanie 💪. Mam duż
 ![image](https://github.com/Justyna741/challenge_portfolio_Justyna/assets/143549502/7fa3b7fb-cda8-4f79-b7ec-01dac154653f)
 
 Subtask 4
-SCOUT
+
 
 **1**. Na czym polega ta aplikacja? Do czego służy? " SCOUT PANEL"
 
