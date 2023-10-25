@@ -85,9 +85,10 @@ https://justynam.atlassian.net/jira/projects?selectedProjectType=business
 ===
 
 
-Subtask 1 
+Subtask 1 Pisanie przypadków testowych na podstawie User Story
 -
-Pisanie przypadków testowych na podstawie User Story
+
+https://docs.google.com/document/d/1D6XVCUTafTHhkIdYPJFL-IDpUzSebsiPLtEs8mX0xWg/edit
 
 User Story dotyczą strony: https://scouts-test.futbolkolektyw.pl/pl
 
@@ -97,7 +98,7 @@ Subtask 2
 
 Test casy'y do strony https://scouts-test.futbolkolektyw.pl/
 
-Pisanie przypadków testowych na podstawie " własnych doświadczeń "
+https://docs.google.com/spreadsheets/d/1cDTs16zm-lB25KGQgauGQKRLpMO-0yyxCecL834Zn08/edit#gid=0
 
 
 Subtask 3 Po co piszemy test case’y?
