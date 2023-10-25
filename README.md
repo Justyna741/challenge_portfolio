@@ -65,6 +65,10 @@ Aplikacja jest w jakimś stopniu intuicyjna ale za mało. Troszkę trzeba poklik
  5. pole telefon - aplikacja akceptuje ciąg liter; sugerowane ograniczenie akceptowanych wartości pola
  6. aplikacja akceptuje przyszłą datę,
  7. pole wzrost - aplikacja akceptuje wzrost ujemny
+ 8. Bład 404
+![Uploading image.png…]()
+
+
 
 Moim skromnym zdaniem z tymi zakładkami też można byłoby coś więcej zrobić bo dają jakieś informacje, ale zbyt ogólne, mogłby byc rozwujalne 😎
 
