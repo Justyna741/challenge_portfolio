@@ -346,7 +346,7 @@ Subtask 3 Tworzymy portfolio
 -
 
 
-https://github.com/Justyna741/challenge_portfolio_Justyna
+https://github.com/Justyna741/PORTFOLIO
 
 
 
